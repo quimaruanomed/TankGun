@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\GTankEx\GTankEx\bin\Debug\netcoreapp3.1\GTankEx.exe
+C:\Users\jruan\source\repos\GTankEx\GTankEx\bin\Debug\netcoreapp3.1\GTankEx.deps.json
+C:\Users\jruan\source\repos\GTankEx\GTankEx\bin\Debug\netcoreapp3.1\GTankEx.runtimeconfig.json
+C:\Users\jruan\source\repos\GTankEx\GTankEx\bin\Debug\netcoreapp3.1\GTankEx.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\GTankEx\GTankEx\bin\Debug\netcoreapp3.1\GTankEx.dll
+C:\Users\jruan\source\repos\GTankEx\GTankEx\bin\Debug\netcoreapp3.1\GTankEx.pdb
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.AssemblyInfo.cs
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.dll
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.pdb
+C:\Users\jruan\source\repos\GTankEx\GTankEx\obj\Debug\netcoreapp3.1\GTankEx.genruntimeconfig.cache
